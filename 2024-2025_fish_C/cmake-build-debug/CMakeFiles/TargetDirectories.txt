@@ -1,0 +1,3 @@
+/cygdrive/c/Users/danjo/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/2024_2025_fish_C.dir
+/cygdrive/c/Users/danjo/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/danjo/CLionProjects/2024-2025_fish_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
