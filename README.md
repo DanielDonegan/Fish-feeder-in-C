@@ -1,8 +1,8 @@
-##Computer Science BSc year 2: Fish feeder:##
+Computer Science BSc year 2: Fish feeder:
 
-##Author: Daniel Donegan / Neale Snooke##
+Author: Daniel Donegan / Neale Snooke
 
-##Version: C11##
+Version: C11
 
 This project contains a lot of code that was developed by Neale Snooke at Aberystwyth university. Here I have specified what code is mine:
   . 2024-2025_fish_C\main.c
